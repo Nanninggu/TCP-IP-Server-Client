@@ -1,4 +1,4 @@
-package com.server.tpc;
+package com.server.tpcintegration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

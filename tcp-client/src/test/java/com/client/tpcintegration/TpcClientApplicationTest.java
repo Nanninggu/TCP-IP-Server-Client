@@ -1,4 +1,4 @@
-package com.pozzo.tpcintegration;
+package com.client.tpcintegration;
 
 import java.util.Date;
 
@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.pozzo.tpcintegration.client.TcpClientGateway;
+import com.client.tpcintegration.client.TcpClientGateway;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

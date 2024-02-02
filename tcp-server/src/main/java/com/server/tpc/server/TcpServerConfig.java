@@ -1,4 +1,4 @@
-package com.pozzo.tpcintegration.server;
+package com.server.tpc.server;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

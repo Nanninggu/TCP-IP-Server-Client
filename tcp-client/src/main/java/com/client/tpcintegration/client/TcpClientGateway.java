@@ -1,4 +1,4 @@
-package com.pozzo.tpcintegration.client;
+package com.client.tpcintegration.client;
 
 import org.springframework.integration.annotation.MessagingGateway;
 

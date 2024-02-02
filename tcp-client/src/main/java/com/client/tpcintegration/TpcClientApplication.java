@@ -1,13 +1,14 @@
-package com.pozzo.tpcintegration;
+package com.client.tpcintegration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TcpServerApplication {
+public class TpcClientApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TcpServerApplication.class, args);
+
+		SpringApplication.run(TpcClientApplication.class, args);
 	}
 
 }
